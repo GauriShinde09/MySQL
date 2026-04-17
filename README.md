@@ -1,14 +1,14 @@
-# 🗄️ MySQL Daily Practice
+# 🗄️ MySQL Daily Practice & Assignments
 
-This repository contains my daily MySQL practice queries to improve database skills and problem-solving ability.
+This repository contains my daily MySQL practice queries along with assignments to strengthen my database skills.
 
 ---
 
 ## 🎯 Goals
 
-- Improve SQL query writing skills  
-- Practice real-world database problems  
-- Understand joins, subqueries, and functions  
+- Improve SQL query writing  
+- Solve real-world database problems  
+- Practice assignments for better understanding  
 
 ---
 
@@ -24,23 +24,25 @@ This repository contains my daily MySQL practice queries to improve database ski
 
 ---
 
-## 📝 Practice Format
+## 📂 Structure
 
-Each file contains:
+📁 MySQL-Practice
+┣ 📁 Assignments
+┃ ┗ Topic-wise assignments
 
-- Problem statement  
-- SQL query  
-- Output (if needed)  
 
 ---
 
-## 📂 Folder Structure
-📁 MySQL-Practice
-┣ 📄 basic_queries.sql
-┣ 📄 joins.sql
-┣ 📄 functions.sql
-┣ 📄 subqueries.sql
+## 📝 What’s Inside?
 
+### 🔹 Practice
+- Daily SQL queries  
+- Topic-wise learning  
+
+### 🔹 Assignments
+- Topic-based problems  
+- Real-world scenarios  
+- Mini projects  
 
 ---
 
@@ -48,14 +50,14 @@ Each file contains:
 
 - ✅ Basic Queries  
 - ✅ Joins  
-- 🔄 Subqueries (In Progress)  
-- ⏳ Advanced Queries  
+- 🔄 Assignments (In Progress)  
+- ⏳ Advanced Topics  
 
 ---
 
-## 💡 Why This Repo?
+## 💡 Purpose
 
-To build strong database skills required for backend development and real-world applications.
+To build strong database and backend skills through consistent practice and structured assignments.
 
 ---
 
